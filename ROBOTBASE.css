@@ -1,0 +1,89 @@
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(153, 153, 153);
+  }
+  .button:hover {background-color:rgb(37, 64, 88)}
+  .button:active {
+    background-color: rgba(35,53,70,1);
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+.button1{
+    color: #fff;
+    background-color: rgba(35,53,70,1);
+    width: 145px;
+    height: 72px;
+    
+    top: 35px;
+    left: 697px;
+    border-top-left-radius: 50px; 
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+.button2{
+    color: #fff;
+    background-color: rgba(35,53,70,1);
+    width: 145px;
+    height: 72px;
+    
+    top: 125px;
+    left: 530px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+.button3{
+    color: #fff;
+    background-color: rgba(35,53,70,1);
+    width: 145px;
+    height: 72px;
+    
+    top: 125px;
+    left: 697px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+.button4{
+    color: #fff;
+    background-color: rgba(35,53,70,1);
+    width: 145px;
+    height: 72px;
+    
+    top: 125px;
+    left: 856px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
+.button5{
+    color: #fff;
+    background-color: rgba(35,53,70,1);
+    width: 150px;
+    height: 72px;
+    
+    top: 220px;
+    left: 697px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+}
